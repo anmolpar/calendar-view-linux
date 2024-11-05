@@ -1,1 +1,1 @@
-Code is only for python 2
+suitable for python 2
